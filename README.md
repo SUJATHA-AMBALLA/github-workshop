@@ -24,4 +24,16 @@ This repository contains all the files regarding GITHUB WORKSHOP
     2. Rani
     3. Nikitha
     
+*links*
 [Go to Google Website](https://www.google.co.in/)
+
+*YOU WENT TO GOOGLE ,RIGHT?*
+
+![ROSES](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ways-to-make-your-valentines-day-roses-last-longer-1613407483.jpg)
+
+![Araku](https://img.traveltriangle.com/blog/wp-content/uploads/2020/02/Waterfalls-In-Araku-Valley-14_feb1.jpg)
+
+pic_num|Name
+-------|----
+1|Roses
+2|ArakuValley
