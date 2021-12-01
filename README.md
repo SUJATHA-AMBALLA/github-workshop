@@ -41,10 +41,16 @@ pic_num|Name
 >Going through the Mastering markdown github page
 
 * I_LIKE
- * 🇮🇳
- * 😴
- * 🍫
- * 💃
- * 👨‍👩‍👦‍👦
- * 🥘
+  * 🇮🇳
+  * 😴
+  * 🍫
+  * 💃
+  * 👨‍👩‍👦‍👦
+  * 🥘
+  * Akhila 👻
+  * Bhavya 🐒
+  * Harshi 🦉
   
+  
+[Markdown Language Syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
